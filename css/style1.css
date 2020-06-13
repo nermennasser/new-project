@@ -1,0 +1,16 @@
+.os{
+    background:red;
+color:blue;
+  margin-bottom:10px;      
+    
+}
+.new{
+    background:green;
+   
+     color :darkorchid;
+    margin-bottom: 10px
+}
+p{color:fuchsia ;font-family:cursive
+}
+h{color: deeppink;font-family: cursive}
+.o{color: darkblue;background-clip:border-box;background-color:cornflowerblue }
